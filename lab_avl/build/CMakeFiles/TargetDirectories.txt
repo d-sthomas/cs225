@@ -1,0 +1,12 @@
+/workspaces/VS CODE 225/release-f22-main/lab_avl/build/CMakeFiles/test.dir
+/workspaces/VS CODE 225/release-f22-main/lab_avl/build/CMakeFiles/testavl.dir
+/workspaces/VS CODE 225/release-f22-main/lab_avl/build/CMakeFiles/edit_cache.dir
+/workspaces/VS CODE 225/release-f22-main/lab_avl/build/CMakeFiles/rebuild_cache.dir
+/workspaces/VS CODE 225/release-f22-main/lab_avl/build/lib/CMakeFiles/lodepng.dir
+/workspaces/VS CODE 225/release-f22-main/lab_avl/build/lib/CMakeFiles/binarytree.dir
+/workspaces/VS CODE 225/release-f22-main/lab_avl/build/lib/CMakeFiles/cs225.dir
+/workspaces/VS CODE 225/release-f22-main/lab_avl/build/lib/CMakeFiles/edit_cache.dir
+/workspaces/VS CODE 225/release-f22-main/lab_avl/build/lib/CMakeFiles/rebuild_cache.dir
+/workspaces/VS CODE 225/release-f22-main/lab_avl/build/src/CMakeFiles/src.dir
+/workspaces/VS CODE 225/release-f22-main/lab_avl/build/src/CMakeFiles/edit_cache.dir
+/workspaces/VS CODE 225/release-f22-main/lab_avl/build/src/CMakeFiles/rebuild_cache.dir

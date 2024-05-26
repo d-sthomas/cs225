@@ -1,0 +1,175 @@
+Randomness seeded to: 3709457236
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+test is a Catch2 v3.1.0 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+test_heapify_down_1
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:67
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:24: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  6 == 8
+
+-------------------------------------------------------------------------------
+test_heapify_down_2
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:73
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:24: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  7 == 1234 (0x4d2)
+
+-------------------------------------------------------------------------------
+test_heapify_down_3
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:79
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:24: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  1 == 64
+
+-------------------------------------------------------------------------------
+test_heapify_down_4
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:85
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:24: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  6 == 37
+
+-------------------------------------------------------------------------------
+test_heapify_down_5
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:91
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:24: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  4 == 74
+
+-------------------------------------------------------------------------------
+test_heapify_down_6
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:100
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:24: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  "c" == "python"
+
+-------------------------------------------------------------------------------
+test_heapify_down_7
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:106
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:24: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  "c" == "javascript"
+
+-------------------------------------------------------------------------------
+test_heapify_down_8
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:112
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:24: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  "c" == "perl"
+
+-------------------------------------------------------------------------------
+test_heapify_down_9
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:118
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:24: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  "c" == "ruby"
+
+-------------------------------------------------------------------------------
+test_heapify_down_10
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:124
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:24: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  "abcdxyz" == "javascript"
+
+-------------------------------------------------------------------------------
+test_update_elem_1
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:192
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:63: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  7 == 8
+
+-------------------------------------------------------------------------------
+test_update_elem_2
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:198
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:63: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  8 == 1234 (0x4d2)
+
+-------------------------------------------------------------------------------
+test_update_elem_3
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:204
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:63: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  21 == 96
+
+-------------------------------------------------------------------------------
+test_update_elem_4
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:210
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:63: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  14 == 37
+
+-------------------------------------------------------------------------------
+test_update_elem_5
+-------------------------------------------------------------------------------
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:216
+...............................................................................
+
+/workspaces/VS CODE 225/release-f22-main/lab_heaps/tests/tests.cpp:63: FAILED:
+  REQUIRE( sorted[i] == _heap.pop() )
+with expansion:
+  6 == 74
+
+===============================================================================
+test cases: 20 | 5 passed | 15 failed
+assertions: 20 | 5 passed | 15 failed
+

@@ -1,0 +1,3 @@
+/workspaces/VS CODE 225/labs/lab_memory/build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_e766f.dir
+/workspaces/VS CODE 225/labs/lab_memory/build/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
+/workspaces/VS CODE 225/labs/lab_memory/build/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir

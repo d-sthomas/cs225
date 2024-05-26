@@ -1,0 +1,3 @@
+/workspaces/VS CODE 225/mps/mp_lists/build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_38541.dir
+/workspaces/VS CODE 225/mps/mp_lists/build/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
+/workspaces/VS CODE 225/mps/mp_lists/build/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
